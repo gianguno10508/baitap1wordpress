@@ -1,0 +1,207 @@
+2022-01-21T01:21:00+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:15
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-conte in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 15
+
+2022-01-21T01:21:20+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:15
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-conte in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 15
+
+2022-01-21T01:21:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:15
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-conte in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 15
+
+2022-01-21T01:22:45+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:15
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-conte in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 15
+
+2022-01-21T01:36:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 26 and exactly 1 expected in D:\xampp\htdocs\wordpress\wp-includes\category.php:205
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(26): get_cat_ID()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\general-templat in D:\xampp\htdocs\wordpress\wp-includes\category.php on line 205
+
+2022-01-21T01:42:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 26 and exactly 1 expected in D:\xampp\htdocs\wordpress\wp-includes\category.php:205
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(26): get_cat_ID()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\general-templat in D:\xampp\htdocs\wordpress\wp-includes\category.php on line 205
+
+2022-01-21T01:51:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_the_category_by_ID(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 26 and exactly 1 expected in D:\xampp\htdocs\wordpress\wp-includes\category-template.php:109
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(26): get_the_category_by_ID()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\word in D:\xampp\htdocs\wordpress\wp-includes\category-template.php on line 109
+
+2022-01-21T01:53:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_cat_ID(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 26 and exactly 1 expected in D:\xampp\htdocs\wordpress\wp-includes\category.php:205
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(26): get_cat_ID()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\general-templat in D:\xampp\htdocs\wordpress\wp-includes\category.php on line 205
+
+2022-01-21T01:58:27+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 32
+
+2022-01-21T02:07:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_term() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:21
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-content\plugins\woocommer in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 21
+
+2022-01-21T02:10:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_term(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 21 and at least 1 expected in D:\xampp\htdocs\wordpress\wp-includes\taxonomy.php:900
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(21): get_term()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\general-template.p in D:\xampp\htdocs\wordpress\wp-includes\taxonomy.php on line 900
+
+2022-01-21T02:10:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_terms(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 21 and at least 2 expected in D:\xampp\htdocs\wordpress\wp-includes\category-template.php:1435
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(21): the_terms()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\genera in D:\xampp\htdocs\wordpress\wp-includes\category-template.php on line 1435
+
+2022-01-21T02:11:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_taxonomy(), 0 passed in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 21 and exactly 1 expected in D:\xampp\htdocs\wordpress\wp-includes\taxonomy.php:280
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php(21): get_taxonomy()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#4 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-includes\general-tem in D:\xampp\htdocs\wordpress\wp-includes\taxonomy.php on line 280
+
+2022-01-21T02:19:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_categories() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php:21
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(71): get_template_part('test')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\woocommerce\archive-product.php(20): get_header('shop')
+#8 D:\xampp\htdocs\wordpress\wp-content\plugins in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\test.php on line 21
+
+2022-01-21T04:14:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:14:56+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:17:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:18:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:18:57+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:20:09+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+
+2022-01-21T04:21:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:54
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 54
+

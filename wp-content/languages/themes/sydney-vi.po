@@ -1,0 +1,1385 @@
+# Translation of Themes - Sydney in Vietnamese
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-25 16:49:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Theme Name of the theme
+#: inc/extras.php:332 inc/onboarding/theme-info.php:136
+#: inc/theme-dashboard-settings.php:21
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer/customizer.php:1087
+msgid "Modern"
+msgstr "Hiện đại"
+
+#: inc/classes/class-sydney-posts-archive.php:232
+#: theme-dashboard/class-theme-dashboard.php:395
+#: theme-dashboard/class-theme-dashboard.php:415
+#: theme-dashboard/class-theme-dashboard.php:435
+msgid "Read more"
+msgstr "Đọc thêm"
+
+#: inc/customizer/customizer.php:300 inc/customizer/customizer.php:1202
+msgid "or go to the Customizer"
+msgstr "hoặc đi đến phần Tùy Chỉnh"
+
+#: inc/customizer/customizer.php:282 inc/customizer/customizer.php:1186
+msgid "Click the pencil icon to change this text"
+msgstr "Nhấn vào biểu tượng bút chì để thay đổi nội dung"
+
+#. Template Name of the theme
+#: inc/integrations/learndash/customize.php:51
+#: inc/integrations/learndash/customize.php:84
+#: inc/integrations/learnpress/customize.php:31
+#: inc/integrations/learnpress/customize.php:53
+#: inc/integrations/lifter/customize.php:71
+#: inc/integrations/lifter/customize.php:125
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/customizer/customizer.php:1086
+msgid "Classic (alternative)"
+msgstr "Cổ điển (thay thế)"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "Trình dựng trang đã sẵn sàng"
+
+#: inc/onboarding/theme-info.php:242
+msgid "Priority support"
+msgstr "Hỗ trợ ưu tiên"
+
+#: inc/onboarding/theme-info.php:237
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5 Mẫu trang bổ sung (Liên hệ, Tiêu đề nổi bật - Mặc định, Tiêu đề nổi bật - Rộng, Không có tiêu đề - Mặc định, Không có tiêu đề - Rộng)"
+
+#: inc/onboarding/theme-info.php:232
+msgid "WooCommerce compatible"
+msgstr "Tương thích với WooCommerce"
+
+#: inc/onboarding/theme-info.php:227
+msgid "Single Post/Page Options"
+msgstr "Bài viết/Tùy chỉnh trang"
+
+#: inc/onboarding/theme-info.php:222 inc/theme-dashboard-settings.php:64
+msgid "Header support for shortcodes"
+msgstr "Tiêu đề hỗ trợ shortcodes"
+
+#: inc/onboarding/theme-info.php:217
+msgid "Header support for Crelly Slider"
+msgstr "Tiêu đề hỗ trợ Crelly Slider"
+
+#: inc/onboarding/theme-info.php:212
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "Tùy chọn tùy chỉnh bổ sung (Tiêu đề trang trước, nhân viên đơn, dự án đơn, thông tin liên hệ tiêu đề, nút)"
+
+#: inc/onboarding/theme-info.php:207
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "Các tiện ích bổ sung (dòng thời gian, bảng tin tức mới nhất, bảng giá, tiện ích nhân viên mới và tiện ích liên hệ mới)"
+
+#: inc/onboarding/theme-info.php:202
+msgid "Footer Credits option"
+msgstr "Tùy chọn Cuối trang"
+
+#: inc/onboarding/theme-info.php:197
+msgid "Background image support"
+msgstr "Hỗ trợ hình nền"
+
+#: inc/onboarding/theme-info.php:192
+msgid "Widgetized footer"
+msgstr "Hỗ trợ widget cuối trang"
+
+#: inc/onboarding/theme-info.php:107 inc/onboarding/theme-info.php:182
+msgid "Color options"
+msgstr "Tùy chọn màu"
+
+#: inc/onboarding/theme-info.php:177
+msgid "Polylang integration"
+msgstr "Tích hợp Polylang"
+
+#: inc/onboarding/theme-info.php:172
+msgid "Translation ready"
+msgstr "Bản dịch đã hoàn thành"
+
+#: inc/onboarding/theme-info.php:167
+msgid "Front Page Blocks"
+msgstr "Các khối trang chính"
+
+#: inc/onboarding/theme-info.php:162
+msgid "Slider, image or video header"
+msgstr "Thanh trượt, hình ảnh hoặc tiêu đề video"
+
+#: inc/onboarding/theme-info.php:157
+msgid "Social Icons"
+msgstr "Biểu tượng mạng xã hội"
+
+#: inc/onboarding/theme-info.php:142 inc/theme-dashboard-settings.php:27
+msgid "Access to all Google Fonts"
+msgstr "Sử dụng tất cả phông chữ của Google"
+
+#: inc/onboarding/theme-info.php:137 inc/theme-dashboard-settings.php:22
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/onboarding/theme-info.php:135 inc/theme-dashboard-settings.php:20
+msgid "Feature"
+msgstr "Tính năng"
+
+#: inc/onboarding/theme-info.php:127
+msgid "See the Documentation"
+msgstr "Xem Tài liệu Hướng dẫn"
+
+#: inc/onboarding/theme-info.php:126
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Tài liệu Hướng dẫn của chúng tôi có thể chỉ cho bạn biết cách sử dụng chủ đề và cũng cung cấp cho bạn các đoạn code thường dùng và trả lời các FAQs."
+
+#: inc/onboarding/theme-info.php:121
+msgid "Visit the forums"
+msgstr "Đi đến diễn đàn"
+
+#: inc/onboarding/theme-info.php:120
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Cần trợ giúp? Hãy truy cập vào diễn đàn hỗ trợ và chúng tôi rất vui được hỗ trợ bạn với bất kỳ câu hỏi nào về chủ đề này."
+
+#: inc/onboarding/theme-info.php:119
+msgid "Visit our forums"
+msgstr "Đi đến diễn đàn"
+
+#: inc/onboarding/theme-info.php:95
+msgid "Go to the automatic importer"
+msgstr "Đi đến trình nhập tự động"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "Miễn phí vs Pro"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "Bắt đầu"
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "Xin chào, %s,"
+
+#: inc/onboarding/theme-info.php:152
+msgid "Parallax backgrounds"
+msgstr "Hình nền Parallax"
+
+#: inc/customizer/customizer.php:206 inc/customizer/customizer.php:1102
+#: inc/onboarding/theme-info.php:147 inc/theme-dashboard-settings.php:32
+msgid "Responsive"
+msgstr "Responsive"
+
+#: inc/customizer/customizer.php:205 inc/customizer/customizer.php:1101
+msgid "Full screen"
+msgstr "Toàn màn hình "
+
+#: inc/customizer/customizer.php:201
+msgid "Slider mobile behavior"
+msgstr "Hành vi trượt trên di động"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "Văn bản trước nút play (chỉ dành cho chế độ lightbox):"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: inc/customizer/options/typography.php:60
+#: inc/customizer/options/typography.php:512 widgets/video-widget.php:28
+msgid "Normal"
+msgstr "Bình thường"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "Chế độ Video:"
+
+#: inc/customizer/options/colors.php:554
+msgid "Mobile menu button"
+msgstr "Nút Menu trên di động"
+
+#: inc/customizer/options/colors.php:499 inc/customizer/options/header.php:827
+msgid "Menu items hover"
+msgstr "Di chuột vào thành phần Menu"
+
+#: inc/customizer/customizer.php:151 inc/customizer/customizer.php:174
+#: inc/customizer/customizer.php:1033
+msgid "Video"
+msgstr "Video"
+
+#: inc/page-builder.php:65 inc/so-page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Thêm một giá trị vào trường này để thay đổi phần đệm hàng trên cùng / dưới cùng, nếu không 100px sẽ được áp dụng theo mặc định"
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "Toàn bộ nội dung"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "Nội dung hiển thị:"
+
+#: inc/customizer/upsell/class-customize.php:77
+#: inc/theme-dashboard-settings.php:281
+msgid "Get Sydney Pro"
+msgstr "Mua Sydney Pro"
+
+#: inc/customizer/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Sẵn sàng để biết thêm?"
+
+#: inc/page-builder.php:198 inc/so-page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "Điều này áp dụng cho tất cả các tiêu đề trong widget, ngoại trừ tiêu đề widget"
+
+#: inc/page-builder.php:194 inc/so-page-builder.php:194
+msgid "Headings color"
+msgstr "Màu Tiêu đề"
+
+#: inc/page-builder.php:187 inc/so-page-builder.php:187
+msgid "Widget title color"
+msgstr "Màu tiêu đề Widget"
+
+#: inc/page-builder.php:183 inc/so-page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Cài đặt này phụ thuộc vào nội dung, nó có thể hoặc không hoạt động"
+
+#: inc/customizer/options/blog-single.php:70
+#: inc/customizer/options/blog.php:122 inc/customizer/options/blog.php:207
+#: inc/customizer/options/general.php:283 inc/customizer/options/header.php:296
+#: inc/customizer/options/header.php:418
+#: inc/customizer/options/woocommerce.php:109 inc/page-builder.php:180
+#: inc/so-page-builder.php:180
+msgid "Right"
+msgstr "Bên phải"
+
+#: inc/customizer/options/header.php:295 inc/page-builder.php:179
+#: inc/so-page-builder.php:179
+msgid "Center"
+msgstr "Chính giữa"
+
+#: inc/customizer/options/blog-single.php:69
+#: inc/customizer/options/blog-single.php:116
+#: inc/customizer/options/blog.php:121 inc/customizer/options/blog.php:206
+#: inc/customizer/options/general.php:282 inc/customizer/options/header.php:294
+#: inc/customizer/options/header.php:406
+#: inc/customizer/options/woocommerce.php:105 inc/page-builder.php:178
+#: inc/so-page-builder.php:178
+msgid "Left"
+msgstr "Bên trái"
+
+#: inc/page-builder.php:174 inc/so-page-builder.php:174
+msgid "Content alignment"
+msgstr "Căn chỉnh nội dung"
+
+#: inc/page-builder.php:113 inc/so-page-builder.php:113
+msgid "Overlay color"
+msgstr "Lớp phủ màu"
+
+#: inc/page-builder.php:107 inc/so-page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "Vô hiệu hóa lớp phủ dòng?"
+
+#: inc/customizer/options/blog-single.php:99
+#: inc/customizer/options/colors.php:402 inc/customizer/options/header.php:14
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Hiện tiêu đề dự án?"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "Văn bản \"Hiện tất cả\":"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Hiển thị bộ lọc điều hướng? (Chuyên mục của slugs phải được chỉ định)."
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Nhập các slugs (được phân tách bằng dấu phẩy) cho các danh mục của bạn hoặc để trống để hiển thị tất cả các dự án."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Số dự án sẽ hiển thị (-1 để hiển thị tất cả):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Hiện tất cả"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portfolio"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Hiển thị các dự án của bạn theo dạng lưới."
+
+#: inc/customizer/options/general.php:67
+msgid "Page wrapper - bottom padding"
+msgstr "Bao trang - padding phía dưới"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Mở liên kết khách hàng trong một tab mới?"
+
+#: inc/customizer/options/general.php:70
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Đệm phía dưới dành cho trình bao bọc trang (khoảng trắng giữa nội dung trang và chân trang)"
+
+#: inc/customizer/options/general.php:60
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/options/general.php:47
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Phần đệm trên cùng cho trình bao bọc trang (khoảng trắng giữa tiêu đề và tiêu đề trang)"
+
+#: inc/customizer/options/general.php:44
+msgid "Page wrapper - top padding"
+msgstr "Phần bọc trang - đệm trên cùng"
+
+#: inc/customizer/options/general.php:37
+msgid "83"
+msgstr "83"
+
+#: inc/onboarding/theme-info.php:39
+#: theme-dashboard/class-theme-dashboard.php:615
+msgid "Support"
+msgstr "Trợ giúp"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Thời gian tự động phát [ms]"
+
+#: inc/onboarding/theme-info.php:125
+#: theme-dashboard/class-theme-dashboard.php:550
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Sydney Info"
+msgstr "Thông tin về Sydney"
+
+#. Template Name of the theme
+#: inc/customizer/customizer.php:716
+msgid "Full width"
+msgstr "Chiều rộng đầy đủ"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Trang chủ"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Dán URL của video (chỉ hỗ trợ oEmbed, như Youtube, Vimeo, v.v.):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Hiển thị video từ Youtube, Vimeo etc."
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Nhập slug cho danh mục của bạn hoặc để trống để hiển thị tất cả lời nhận xét."
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "URL cho nút của bạn [Trong trường hợp bạn muốn có một nút bên dưới khối lời nhận xét của bạn]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Số lời nhận xét được hiển thị (-1 hiển thị tất cả):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "Để hiển thị widget này, trước tiên bạn phải thêm một số lời nhận xét từ khu vực quản trị của bạn."
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Lời nhận xét"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Hiển thị lời nhận xét của bạn theo dạng thanh trượt."
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Xem tất cả lời nhận xét"
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Chữ trên nút [Mặc định là <em>Xem tất cả lời nhận xét của chúng tôi</em> nếu để trống]"
+
+#: widgets/fp-social.php:65
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Chọn &mdash;"
+
+#: widgets/fp-social.php:63
+msgid "Select your social menu:"
+msgstr "Chọn menu mạng xã hội của bạn:"
+
+#: widgets/fp-social.php:61
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Để hiển thị các biểu tượng xã hội của bạn trong một widget, tất cả những gì bạn cần làm là vào <strong> Giao diện> Menu </strong> và tạo một menu chứa các liên kết đến hồ sơ xã hội của bạn, sau đó gán menu đó tại đây. Các mạng được hỗ trợ: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:53
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Hiện chưa có trình đơn nào được tạo. Hãy <a href=\"%s\">bắt đầu tạo mới</a>."
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Hồ sơ mạng xã hội"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Hiển thị hồ sơ mạng xã hội trên trang nhất của bạn"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Giá trị kỹ năng thứ 4"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Tên kỹ năng thứ 4"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Giá trị kỹ năng thứ 3"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Tên kỹ năng thứ 3"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "Giá trị kỹ năng thứ 2"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "Tên kỹ năng thứ 2"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "Giá trị kỹ năng thứ 1"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "Tên kỹ năng thứ 1"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: Kỹ năng"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Cho khách truy cập xem một số kỹ năng của bạn."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Số cột:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: Dịch vụ loại B"
+
+#: widgets/fp-services-type-a.php:147 widgets/fp-services-type-b.php:162
+msgid "See all our services"
+msgstr "Xem tất cả dịch vụ của chúng tôi"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Hiển thị dịch vụ trong hai cột thay vì ba?"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Nhập slug cho danh mục của bạn hoặc để trống để hiển thị tất cả các dịch vụ."
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Văn bản cho nút [Mặc định cho <em>Xem tất cả các dịch vụ của chúng tôi</em> nếu để trống]"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "URL cho nút của bạn [Trong trường hợp bạn muốn có nút bên dưới khối dịch vụ của mình]"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Số lượng dịch vụ sẽ hiển thị (-1 hiển thị tất cả):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "Để hiển thị widget này, trước tiên bạn phải thêm một số dịch vụ từ khu vực quản trị của bạn."
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: Dịch vụ loại A"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "Hiển thị những dịch vụ bạn có thể cung cấp."
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Văn bản nút kêu gọi hành động"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "Văn bản trên URL kêu gọi hành động:"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Thêm các mục của bạn ở đây. Một mục trên mỗi hàng, bắt đầu mỗi hàng bằng <strong>^</strong>. Ví dụ: <strong>^mục</strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Thêm một ít văn bản ở đây. Nó sẽ được hiển thị."
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:58
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Danh sách"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "Một danh sách widget đơn giản"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Xem tất cả tin tức của chúng tôi"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Thêm chữ cho nút ở đây nếu bạn muốn thay đổi chữ mặc định <em>Xem tất cả tin tức của chúng tôi</em>"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Nhập slug cho danh mục của bạn hoặc để trống để hiển thị bài đăng từ tất cả các danh mục."
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Tin mới nhất"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Hiển thị những tin tức mới nhất từ ​​blog của bạn."
+
+#: widgets/fp-facts.php:103
+msgid "Fourth fact icon"
+msgstr "Biểu tượng thực tế thứ 4"
+
+#: widgets/fp-facts.php:35
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Vi dụ cách sử dụng: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "tại đây."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Bạn có thể tìm thấy danh sách các biểu tượng có sẵn"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Hiển thị cho người truy cập một số sự thật về công ty của bạn."
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Hiển thị các thành viên trong nhóm của bạn một cách sành điệu."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Xem tất cả khách hàng của chúng tôi"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Nhập slug cho danh mục của bạn hoặc để trống để hiển thị tất cả các khách hàng."
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Chữ cho nút [Mặc định là <em>Xem tất cả khách hàng của chúng tôi</em> nếu để trống]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "URL cho nút của bạn [Trong trường hợp bạn muốn có một nút bên dưới khối khách hàng của mình]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Số lượng khách hàng hiển thị (-1 hiển thị tất cả):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "Để hiển thị widget này, trước tiên bạn phải thêm một số khách hàng từ khu vực quản trị của bạn. Đặt logo khách hàng của bạn như hình ảnh đặc trưng."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Khách hàng"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Hiển thị danh sách khách hàng."
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "Hiển thị nút cùng dòng với văn bản?"
+
+#: widgets/fp-facts.php:98
+msgid "Fourth fact value"
+msgstr "Giá trị sự kiện thứ tư"
+
+#: widgets/fp-facts.php:93
+msgid "Fourth fact name"
+msgstr "Tên sự kiện thứ tư"
+
+#: widgets/fp-facts.php:87
+msgid "Third fact icon"
+msgstr "Biểu tượng sự kiện thứ ba"
+
+#: widgets/fp-facts.php:82
+msgid "Third fact value"
+msgstr "Giá trị sự kiện thứ ba"
+
+#: widgets/fp-facts.php:77
+msgid "Third fact name"
+msgstr "Tên sự kiện thứ ba"
+
+#: widgets/fp-facts.php:71
+msgid "Second fact icon"
+msgstr "Biểu tượng sự kiện thứ hai"
+
+#: widgets/fp-facts.php:66
+msgid "Second fact value"
+msgstr "Giá trị sự kiện thứ hai"
+
+#: widgets/fp-facts.php:61
+msgid "Second fact name"
+msgstr "Tên sự kiện thứ hai"
+
+#: widgets/fp-facts.php:55
+msgid "First fact icon"
+msgstr "Biểu tượng sự kiện thứ hai"
+
+#: widgets/fp-facts.php:50
+msgid "First fact value"
+msgstr "Giá trị sự kiện thứ nhất"
+
+#: widgets/fp-facts.php:45
+msgid "First fact name"
+msgstr "Tên sự kiện thứ nhất"
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Sự kiện"
+
+#: widgets/fp-employees.php:143
+msgid "See all our employees"
+msgstr "Xem tất cả nhân viên của chúng tôi"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Căn giữa Nhân viên? (chỉ dùng nếu bạn có 1 hoặc 2 nhân viên)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Nhập slug cho danh mục của bạn hoặc để trống để hiển thị tất cả nhân viên."
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Chữ cho nút [Mặc định là <em>Xem tất cả nhân viên của chúng tôi</em> nếu để trống]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Nhập một URL ở đây nếu bạn muốn phần để liên kết ở đâu đó."
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Số lượng nhân viên hiển thị (-1 hiển thị tất cả):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Để hiển thị plugin này, trước tiên bạn phải thêm một số nhân viên từ bảng điều khiển. Thêm bao nhiêu tùy ý và chủ đề sẽ tự động hiển thị tất cả."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Nhân viên"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Tiêu đề cho nút"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Liên kết cho nút"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Nhập lời kêu gọi hành động của bạn."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Kêu gọi hành động"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Hiển thị một khối cho kêu gọi hành động."
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "Nhập email của bạn"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Nhập số điện thoại của bạn"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Nhập địa chỉ của bạn"
+
+#: inc/customizer/options/woocommerce.php:303 widgets/contact-info.php:20
+#: widgets/fp-call-to-action.php:18 widgets/fp-clients.php:23
+#: widgets/fp-employees.php:23 widgets/fp-facts.php:39
+#: widgets/fp-latest-news.php:19 widgets/fp-services-type-a.php:30
+#: widgets/fp-services-type-b.php:29 widgets/fp-skills.php:24
+#: widgets/fp-testimonials.php:22 widgets/video-widget.php:20
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: Thông tin liên hệ"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Hiển thị thông tin liên hệ của bạn"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/customizer/options/general.php:173
+msgid "Type"
+msgstr "Định dạng"
+
+#: inc/template-tags.php:241
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:239
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:235
+msgid "Archives: %s"
+msgstr "Lưu trữ: %s"
+
+#: inc/template-tags.php:232
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Đường dẫn"
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Trích dẫn"
+
+#: inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Bộ sưu tập"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Trích đoạn bài viết"
+
+#: inc/template-tags.php:213
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:213
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#: inc/template-tags.php:211
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:211
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: inc/template-tags.php:209
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:209
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: inc/template-tags.php:207
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#: inc/template-tags.php:205
+msgid "Tag: %s"
+msgstr "Thẻ: %s"
+
+#: inc/template-tags.php:203
+msgid "Category: %s"
+msgstr "Chuyên mục: %s"
+
+#: inc/template-tags.php:160
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:171
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date.
+#: inc/template-tags.php:345
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đã đăng vào %s"
+
+#: inc/customizer/options/blog-single.php:389 inc/template-tags.php:61
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Các bài viết mới hơn"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Bài viết cũ hơn"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/page-builder.php:101 inc/so-page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100 inc/so-page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99 inc/so-page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98 inc/so-page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97 inc/so-page-builder.php:97
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/page-builder.php:95 inc/so-page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "Tại đây, bạn có thể chọn phần đệm hàng trên/dưới cho kích thước màn hình < 1024px"
+
+#: inc/page-builder.php:93 inc/so-page-builder.php:93
+msgid "Mobile padding"
+msgstr "Phần đệm cho di động"
+
+#: inc/page-builder.php:87 inc/so-page-builder.php:87
+msgid "Background image of the row."
+msgstr "Hình nền của dòng."
+
+#: inc/page-builder.php:85 inc/so-page-builder.php:85
+msgid "Background Image"
+msgstr "Ảnh nền"
+
+#: inc/page-builder.php:80 inc/so-page-builder.php:80
+msgid "Color of the row."
+msgstr "Màu của dòng."
+
+#: inc/customizer/options/header-mobile.php:359
+#: inc/customizer/options/woocommerce.php:888 inc/page-builder.php:78
+#: inc/so-page-builder.php:78
+msgid "Color"
+msgstr "Màu"
+
+#: inc/page-builder.php:72 inc/so-page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Cái này có thể hoặc không thể hoạt động. Nó phụ thuộc vào các kiểu widget."
+
+#: inc/page-builder.php:70 inc/so-page-builder.php:70
+msgid "Center align the content?"
+msgstr "Căn giữa nội dung?"
+
+#: inc/page-builder.php:63 inc/so-page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Phần đệm trên/dưới"
+
+#: inc/page-builder.php:57 inc/so-page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Màu viền dưới"
+
+#: inc/page-builder.php:44 inc/so-page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Widget chủ đề Sydney"
+
+#: inc/customizer/customizer.php:1034
+msgid "Nothing (only menu)"
+msgstr "Không có gì (chỉ có menu)"
+
+#: inc/customizer/customizer.php:1006
+msgid "2. A full theme demo can be found "
+msgstr "2. Một bản demo đầy đủ cho chủ đề có thể được tìm thấy"
+
+#: inc/customizer/customizer.php:1006
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Tài liệu cho Sydney có thể được tìm thấy"
+
+#: inc/customizer/customizer.php:1004
+msgid "Theme info"
+msgstr "Thông tin chủ đề"
+
+#: inc/customizer/options/colors.php:609
+msgid "Sidebar background"
+msgstr "Hình nền thanh bên"
+
+#: inc/customizer/options/colors.php:629
+msgid "Sidebar color"
+msgstr "Màu thanh bên"
+
+#: inc/customizer/options/colors.php:61
+msgid "Body text"
+msgstr "Nội dung"
+
+#: inc/customizer/options/colors.php:536
+msgid "Sub-menu background"
+msgstr "Hình nền menu phụ"
+
+#: inc/customizer/options/colors.php:518
+msgid "Sub-menu items"
+msgstr "Thành phần menu phụ"
+
+#: inc/customizer/options/colors.php:481
+msgid "Top level menu items"
+msgstr "Thành phần menu cấp cao nhất"
+
+#: inc/customizer/options/colors.php:421
+msgid "Menu background"
+msgstr "Hình nền menu"
+
+#: inc/customizer/options/colors.php:41
+msgid "Primary color"
+msgstr "Màu chính"
+
+#: inc/customizer/options/colors.php:461
+msgid "Site description"
+msgstr "Mô tả trang"
+
+#: inc/customizer/options/colors.php:441
+msgid "Site title"
+msgstr "Tiêu đề trang"
+
+#: inc/customizer/controls/typography/class_sydney_typography.php:81
+msgid "Font family"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/customizer.php:1062
+msgid "Four"
+msgstr "Bốn"
+
+#: inc/customizer/customizer.php:1061
+msgid "Three"
+msgstr "Ba"
+
+#: inc/customizer/customizer.php:1060
+msgid "Two"
+msgstr "Hai"
+
+#: inc/customizer/customizer.php:1059
+msgid "One"
+msgstr "Một"
+
+#: inc/customizer/options/footer.php:29
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/options/blog-single.php:254
+#: inc/customizer/options/blog.php:428
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/options/blog.php:371
+msgid "Excerpt length"
+msgstr "Độ dài đoạn trích"
+
+#: inc/customizer/customizer.php:1089
+msgid "Masonry (grid style)"
+msgstr "Masonry (dạng lưới)"
+
+#: inc/customizer/customizer.php:1088
+msgid "Full width (no sidebar)"
+msgstr "Toàn màn hình (không thanh bên)"
+
+#: inc/customizer/customizer.php:1085 inc/customizer/options/blog.php:64
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: inc/customizer/options/blog.php:59
+msgid "Blog layout"
+msgstr "Bố cục blog"
+
+#: inc/customizer/options/header-mobile.php:54
+#: inc/customizer/options/header.php:246
+#: inc/customizer/options/woocommerce.php:57
+#: inc/customizer/options/woocommerce.php:383
+#: inc/customizer/options/woocommerce.php:488
+#: inc/customizer/options/woocommerce.php:581
+#: inc/customizer/options/woocommerce.php:661
+#: inc/integrations/learndash/customize.php:18
+msgid "Layout"
+msgstr "Sơ đồ trình bày"
+
+#: inc/onboarding/theme-info.php:109 inc/onboarding/theme-info.php:187
+msgid "Blog options"
+msgstr "Tùy chọn cho blog"
+
+#: inc/customizer/customizer.php:992
+msgid "Upload your logo"
+msgstr "Tải logo của bạn "
+
+#: inc/customizer/customizer.php:974
+msgid "Disable the overlay?"
+msgstr "Hiển thị lớp phủ?"
+
+#: inc/customizer/customizer.php:956
+msgid "Header height [default: 300px]"
+msgstr "Chiều cao tiêu đề [mặc định: 300px]"
+
+#: inc/customizer/customizer.php:940 inc/customizer/customizer.php:1048
+msgid "Contain"
+msgstr "Chứa"
+
+#: inc/customizer/customizer.php:939 inc/customizer/customizer.php:1047
+msgid "Cover"
+msgstr "Bao phủ"
+
+#: inc/customizer/customizer.php:936
+msgid "Header background size"
+msgstr "Kích thước hình nền tiêu đề"
+
+#: inc/customizer/customizer.php:695 inc/customizer/customizer.php:1114
+msgid "Centered (menu and site logo)"
+msgstr "Căn giữa (menu và logo trang)"
+
+#: inc/customizer/customizer.php:694 inc/customizer/customizer.php:1113
+msgid "Inline"
+msgstr "Thuộc cùng một dòng"
+
+#: inc/customizer/customizer.php:674 inc/customizer/customizer.php:1074
+msgid "Static"
+msgstr "Tĩnh"
+
+#: inc/customizer/customizer.php:673 inc/customizer/customizer.php:1073
+msgid "Sticky"
+msgstr "Dán"
+
+#: inc/customizer/customizer.php:592
+msgid "Subtitle for the fifth slide"
+msgstr "Phụ đề cho slide thứ năm"
+
+#: inc/customizer/customizer.php:574
+msgid "Title for the fifth slide"
+msgstr "Tiêu đề cho slide thứ năm"
+
+#: inc/customizer/customizer.php:554
+msgid "Upload your fifth image for the slider"
+msgstr "Tải lên hình ảnh thứ năm cho thanh trượt"
+
+#: inc/customizer/customizer.php:535
+msgid "Fifth slide"
+msgstr "Slide thứ năm"
+
+#: inc/customizer/customizer.php:521
+msgid "Subtitle for the fourth slide"
+msgstr "Phụ đề cho slide thứ tư"
+
+#: inc/customizer/customizer.php:503
+msgid "Title for the fourth slide"
+msgstr "Tiêu đề cho slide thứ tư"
+
+#: inc/customizer/customizer.php:483
+msgid "Upload your fourth image for the slider"
+msgstr "Tải lên hình ảnh thứ tư cho thanh trượt"
+
+#: inc/customizer/customizer.php:464
+msgid "Fourth slide"
+msgstr "Slide thứ tư"
+
+#: inc/customizer/customizer.php:450
+msgid "Subtitle for the third slide"
+msgstr "Phụ đề cho slide thứ ba"
+
+#: inc/customizer/customizer.php:432
+msgid "Title for the third slide"
+msgstr "Tiêu đề cho slide thứ ba"
+
+#: inc/customizer/customizer.php:412
+msgid "Upload your third image for the slider"
+msgstr "Tải lên hình ảnh thứ ba cho thanh trượt"
+
+#: inc/customizer/customizer.php:393
+msgid "Third slide"
+msgstr "Slide thứ ba"
+
+#: inc/customizer/customizer.php:379
+msgid "Subtitle for the second slide"
+msgstr "Phụ đề cho slide thứ hai"
+
+#: inc/customizer/customizer.php:361
+msgid "Title for the second slide"
+msgstr "Tiêu đề cho slide thứ hai"
+
+#: inc/customizer/customizer.php:341
+msgid "Upload your second image for the slider"
+msgstr "Tải lên hình ảnh thứ hai cho thanh trượt"
+
+#: inc/customizer/customizer.php:670 inc/theme-dashboard-settings.php:42
+msgid "Sticky menu"
+msgstr "Menu dính"
+
+#: inc/customizer/customizer.php:691
+msgid "Menu style"
+msgstr "Kiểu menu"
+
+#: inc/customizer/customizer.php:640
+msgid "Text for your call to action button"
+msgstr "Chữ cho nút kêu gọi hành động của bạn"
+
+#: inc/customizer/customizer.php:632
+msgid "Click to begin"
+msgstr "Nhấn để bắt đầu"
+
+#: inc/customizer/customizer.php:623
+msgid "URL for your call to action button"
+msgstr "URL cho nút kêu gọi hành động của bạn"
+
+#: inc/customizer/customizer.php:606
+msgid "Call to action button"
+msgstr "Nút kêu gọi hành động"
+
+#: inc/customizer/customizer.php:322
+msgid "Second slide"
+msgstr "Slide thứ hai"
+
+#: inc/customizer/customizer.php:308
+msgid "Subtitle for the first slide"
+msgstr "Phụ đề cho slide thứ nhất"
+
+#: inc/customizer/customizer.php:290
+msgid "Title for the first slide"
+msgstr "Tiêu đề cho slide thứ nhất"
+
+#: inc/customizer/customizer.php:270
+msgid "Upload your first image for the slider"
+msgstr "Tải lên hình ảnh đầu tiên cho thanh trượt"
+
+#: inc/customizer/customizer.php:251
+msgid "First slide"
+msgstr "Slide thứ nhất"
+
+#: inc/customizer/customizer.php:238
+msgid "Stop the text slider?"
+msgstr "Dừng thanh trượt văn bản?"
+
+#: inc/customizer/customizer.php:224
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Tốc độ thanh trượt theo milli giây. Nhập 0 để tắt [mặc định: 4000]"
+
+#: inc/customizer/customizer.php:221
+msgid "Slider speed"
+msgstr "Tốc độ thanh trượt"
+
+#: inc/customizer/customizer.php:214
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer/customizer.php:168
+msgid "Site header type"
+msgstr "Loại tiêu đề trang"
+
+#: inc/customizer/customizer.php:152 inc/customizer/customizer.php:175
+msgid "No header (only menu)"
+msgstr "Không tiêu đề (chỉ hiện menu)"
+
+#: inc/customizer/customizer.php:150 inc/customizer/customizer.php:173
+#: inc/customizer/customizer.php:1032
+#: inc/customizer/options/blog-single.php:168
+msgid "Image"
+msgstr "Ảnh"
+
+#: inc/customizer/customizer.php:147
+msgid "Select the header type for your front page"
+msgstr "Chọn loại tiêu đề cho trang trước của bạn"
+
+#: inc/customizer/customizer.php:145
+msgid "Front page header type"
+msgstr "Loại tiêu đề trang trước"
+
+#: inc/customizer/customizer.php:149 inc/customizer/customizer.php:172
+#: inc/customizer/customizer.php:1031
+msgid "Full screen slider"
+msgstr "Thanh trượt toàn màn hình"
+
+#: inc/customizer/controls/class_sydney_tab_control.php:40
+#: inc/customizer/options/colors.php:20 inc/customizer/options/general.php:14
+#: inc/customizer/options/woocommerce.php:12
+#: inc/integrations/lifter/customize.php:18
+msgid "General"
+msgstr "Tổng quan"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: functions.php:312
+msgid "Create your menu here"
+msgstr "Tạo menu của bạn tại đây"
+
+#: functions.php:116
+msgid "Footer "
+msgstr "Footer"
+
+#: functions.php:104 inc/customizer/options/colors.php:590
+#: inc/customizer/options/woocommerce.php:96
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Trình đơn cơ sở"
+
+#: content-page.php:31 inc/template-tags.php:163
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-page.php:24 content-search.php:32 content-single.php:45
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có lẽ chũng tôi không thể thấy những gì bạn đang tìm kiếm. Bạn có thể dùng tìm kiếm."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng tải bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Không cho phép ghi chú."
+
+#: comments.php:38 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Các bình luận mới hơn&rarr;"
+
+#: comments.php:37 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Những bình luận cũ hơn"
+
+#: comments.php:36 comments.php:54
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận về &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Có vẻ như không có gì được tìm thấy tại vị trí này. Có thể thử một trong các liên kết dưới đây hoặc thử tìm kiếm?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:542
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"

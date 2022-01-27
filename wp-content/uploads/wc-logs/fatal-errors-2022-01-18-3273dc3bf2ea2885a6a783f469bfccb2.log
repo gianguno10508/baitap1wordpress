@@ -1,0 +1,40 @@
+2022-01-18T02:32:00+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\xampp\htdocs\wordpress\wp-content\themes\shop\index.php:85
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\index.php on line 85
+
+2022-01-18T02:56:32+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in D:\xampp\htdocs\wordpress\wp-content\themes\shop\index.php:158
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\index.php on line 158
+
+2022-01-18T04:49:06+00:00 CRITICAL Uncaught Error: Call to undefined function getpostview() in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php:20
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php on line 20
+
+2022-01-18T07:35:44+00:00 CRITICAL Uncaught Error: Call to undefined function comment() in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php:30
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php on line 30
+
+2022-01-18T07:46:52+00:00 CRITICAL Uncaught Error: Call to undefined function comment_template() in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php:31
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\single.php on line 31
+

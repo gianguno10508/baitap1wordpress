@@ -1,0 +1,85 @@
+2022-01-19T01:34:10+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in D:\xampp\htdocs\wordpress\wp-content\themes\shop\functions.php on line 98
+
+2022-01-19T01:34:54+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in D:\xampp\htdocs\wordpress\wp-content\themes\shop\functions.php on line 98
+
+2022-01-19T01:57:54+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php:4
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\content-product.php(27): get_template_part('content/item_pr...')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp\\htdocs...', false)
+#6 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\archive-product.php(76): wc_get_template_part('content', 'product')
+#7 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('D:\\x in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php on line 4
+
+2022-01-19T01:58:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php:13
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\content-product.php(27): get_template_part('content/item_pr...')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp\\htdocs...', false)
+#6 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\archive-product.php(76): wc_get_template_part('content', 'product')
+#7 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include(' in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php on line 13
+
+2022-01-19T01:58:49+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php:4
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\content-product.php(27): get_template_part('content/item_pr...')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp\\htdocs...', false)
+#6 D:\xampp\htdocs\wordpress\wp-content\themes\shop\woocommerce\archive-product.php(76): wc_get_template_part('content', 'product')
+#7 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('D:\\x in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php on line 4
+
+2022-01-19T02:02:51+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php:4
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shop\index.php(55): get_template_part('content/item_pr...')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#7 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shop\content\item_product.php on line 4
+
+2022-01-19T03:20:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php:7
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php(1): get_header()
+#4 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#7 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php on line 7
+
+2022-01-19T04:47:45+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\slider.php:17
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', false, Array)
+#2 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\header.php(57): get_template_part('slider')
+#4 D:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('D:\\xampp\\htdocs...', true, Array)
+#6 D:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php(1): get_header()
+#8 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(10 in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\slider.php on line 17
+
+2022-01-19T08:01:31+00:00 CRITICAL Uncaught Error: Call to undefined function z_taxonomy_image_url() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:28
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 28
+
+2022-01-19T09:06:34+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 71
+
+2022-01-19T09:10:05+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 71
+

@@ -1,0 +1,4 @@
+2022-01-26T03:36:12+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\xampp\htdocs\wordpress\wp-content\themes\sydney\inc\classes\class-sydney-header.php on line 584
+
+2022-01-26T03:36:13+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\xampp\htdocs\wordpress\wp-content\themes\sydney\inc\classes\class-sydney-header.php on line 584
+

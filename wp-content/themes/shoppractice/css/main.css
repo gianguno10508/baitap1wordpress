@@ -1,0 +1,570 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif !important;
+    color: #777 !important;
+}
+.container{
+    max-width: 1200px;
+}
+.justify-content-end {
+    -ms-flex-pack: end!important;
+    justify-content: flex-end!important;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.align-items-center{
+    align-items: center;
+}
+
+.row{
+    padding: 10px 0;
+    color: #fff;
+}
+.row p{
+    margin: 0;
+}
+.topbar-section-header{
+    background: #72a499;
+}
+.col-auto.d-none.d-md-block a p {
+    display: inline-block;
+    color: #fff;
+}
+.header-section .container .row{
+    color: #333;
+}
+.header-logo{
+    display: flex;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.header-tools{
+    display: flex;
+}
+#background-banner{
+    position: absolute;
+    z-index: 100;
+    left: 32%;
+    text-align: center;
+    background: #fff;
+    border-radius: 260px;
+    top: 60px;
+}
+#background-banner .title{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 1;
+    margin-bottom: 11px;
+    transition: all 1s ease 0s;
+    padding: 20px 80px;
+    color: #baa491;
+}
+#background-banner .icon{
+    display: flex;
+    justify-content: center;
+}
+#background-banner .sub-title{
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: 25px;
+    text-align: center;
+    transform: translateY(30px);
+    transition: all 1s ease 0s;
+    padding: 30px;
+}
+#background-banner .link{
+    transition-delay: 1.7s;
+    transform: translateY(30px);
+    transition: all 1s ease 0s;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.4;
+    padding: 0 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#background-banner .link a{
+    color: #333;
+    border-bottom: 1px solid;
+}
+#content .container .section1{
+    padding-top: 100px;
+}
+#content .container .section1 .section1-title{
+    text-align: center;
+}
+#content .container .section1 .section1-title .title{
+    font-size: 48px;
+    color: #333;
+    line-height: 1.3;
+    text-align: center;
+    font-family: 'Marcellus';
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0;
+}
+#content .container .section1 .section1-title .sub-title{
+    font-family: 'Dancing Script', cursive;
+    color: #72a499;
+    font-size: 96px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    font-weight: 300;
+}
+.list-category {
+    padding-top: 60px;
+}
+.img-col-cate img{
+    max-width: 100%;
+}
+.img-col-cate img:hover{
+    transform: scale(1.1);
+}
+.slick-prev{
+    left: -40px !important;
+}
+.slick-next{
+    right: -40px !important;
+}
+button.slick-prev.slick-arrow{
+    background-color: #ededed;
+    width: 30px;
+    height: 30px;
+    transition: 0.4s;
+}
+button.slick-prev.slick-arrow:hover{
+    background-color: red;
+}
+button.slick-next.slick-arrow{
+    background-color: #ededed;
+    width: 30px;
+    height: 30px;
+    transition: 0.4s;
+}
+button.slick-next.slick-arrow:hover{
+    background-color: red;
+}
+.name-col-cate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.name-col-cate a {
+    font-family: 'Marcellus';
+    font-size: 25px;
+    font-weight: 400;
+    color: #333;
+    transition: 0.4s;
+}
+.name-col-cate a:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.name-col-cate p {
+    font-family: 'Marcellus';
+    font-size: 20px;
+    font-weight: 400;
+    color: #333;
+    margin: 0;
+}
+.slick-dots li{
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+    background-color: #ededed;
+}
+#content .container .section2{
+    margin-top: 100px;
+}
+#content .container .section2 .section2-title{
+    text-align: center;
+}
+#content .container .section2 .section2-title .title{
+    font-size: 48px;
+    color: #333;
+    line-height: 1.3;
+    text-align: center;
+    font-family: 'Marcellus';
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0;
+}
+#content .container .section2 .section2-title .sub-title{
+    font-family: 'Dancing Script', cursive;
+    color: #72a499;
+    font-size: 96px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    font-weight: 300;
+}
+.content-product-box{
+    padding-top: 40px;
+}
+.content-product-box .row .col-xs-12{
+    padding-bottom: 30px;
+}
+.item-product:hover .img-hover{
+    opacity: 1;
+}
+.item-product:hover .action{
+    opacity: 1;
+    transition: 1s;
+    top: 57%;
+}
+.item-product:hover .action a{
+    padding: 14px 17.5px;
+}
+
+.item-product h4{
+    font-size: 1.3em;
+    padding-top: 35px;
+}
+.item-product h4 a{
+    font-family: 'Balsamiq Sans', cursive;
+    color: #777;
+}
+.item-product h4 a:hover{
+    text-decoration: none;
+}
+.item-product a img{
+    max-width: 100%;
+    max-height: 300px;
+}
+
+.price-product {
+    color: red;
+    text-decoration: none;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.price{
+    color: red;
+}
+.price-product:hover .img-hover{
+    opacity: 1;
+}
+.price-product del {
+    color: #aaa;
+}
+
+.price-product ins {
+    text-decoration: none;
+}
+.sale{
+    position:absolute;
+    width:40px;
+    height:40px;
+    text-align:center;
+    color:#fff;
+    line-height:14px;
+    background:#98d8ca;
+    border-radius:50%;
+    padding-top:6px;
+    z-index:9;
+    right:0;
+    top: 45px;
+    font-size:12px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.sale-p{
+    position:absolute;
+    width:40px;
+    height:40px;
+    text-align:center;
+    color:#fff;
+    line-height:25px;
+    background:#98d8ca;
+    border-radius:50%;
+    padding-top:6px;
+    z-index:9;
+    right:0;
+    top:0;
+    font-size:12px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.img-hover{
+    position: absolute;
+    top: 0;
+    bottom: 120px;
+    opacity: 0;
+    transition: 0.6s;
+}
+.img-hover a img{
+    height: 100%;
+}
+.action{
+    position: absolute;
+    margin-top: 5px;
+    opacity: 0;
+    top: 73%;
+    transition: all 0s;
+}
+.action a{
+    background-color: #aaa;
+    padding: 10px 15px;
+    font-family: 'Balsamiq Sans', cursive;
+    color: rgb(29, 28, 28);
+}
+.action a i{
+    color: #9e3d3d;
+    font-size: 24px;
+}
+.action a:hover{
+    text-decoration: none;
+}
+
+
+#content .container .section3{
+    margin-top: 100px;
+}
+#content .container .section3 .section3-title{
+    text-align: center;
+}
+#content .container .section3 .section3-title .title{
+    font-size: 48px;
+    color: #333;
+    line-height: 1.3;
+    text-align: center;
+    font-family: 'Marcellus';
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0;
+}
+#content .container .section3 .section3-title .sub-title{
+    font-family: 'Dancing Script', cursive;
+    color: #72a499;
+    font-size: 96px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    font-weight: 300;
+}
+.content-footer{
+    background-color: #f4ede7;
+}
+.logo{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.logo a h1{
+    font-size: 3.7em;
+}
+.logo a:hover{
+    text-decoration: none;
+}
+.copyright{
+    text-align: center;
+    background-color: #333;
+    line-height: 40px;
+    height: 40px;
+}
+.header-menu{
+    border-top: 1px dashed #dedede;
+}
+.header-menu .container{
+    display: flex;
+    justify-content: center;
+}
+.main-menu-header{
+    padding-bottom: 20px;
+}
+.main-menu-header #nav-menu ul li{
+    float:left;
+    position:relative;
+    list-style: none;
+    padding-right: 25px;
+}
+.main-menu-header #nav-menu ul li a{
+    display:inline-block;
+    color:#7e7e7e;
+    text-transform:uppercase;
+    padding:10px 20px;
+    font-size:15px;
+    line-height: 1.5;
+}
+.main-menu-header #nav-menu ul li ul{
+    position:absolute;
+    top:50px;
+    width:200px;
+    left:0;
+    transition:all .3s;
+    opacity:0;
+    visibility:hidden;
+    z-index:999;
+    background-color: #fff;
+}
+.main-menu-header #nav-menu ul li ul li{width:100%}
+.main-menu-header #nav-menu ul li ul li a{text-transform:inherit;width:100%}
+.main-menu-header #nav-menu ul li:hover ul{opacity:1;transition:all .3s;visibility:visible;top:42px}
+
+.header-tools ul li{
+    float:left;
+    position:relative;
+    list-style: none;
+    padding-left: 30px;
+    font-size: 25px;
+}
+.header-tools ul li i{
+    color:#7e7e7e;
+}
+.header-tools ul li i:hover{
+    transform: scale(1.2);
+}
+
+
+.main-menu-footer #nav-menu ul li{
+    list-style: none;
+    line-height: 3.2;
+}
+.main-menu-footer #nav-menu ul li a{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 16px;
+    color: #777;
+}
+.widget{
+    color: #777;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.content-footer .container{
+    padding-top: 60px;
+}
+
+.content-footer .container .row{
+    padding-top: 50px;
+}
+input[type="submit"]{
+    float: right;
+    margin-right: 27px;
+}
+#footer{
+    margin-top: 100px;
+}
+#footer .sub-title{
+    font-family: 'Dancing Script', cursive;
+    color: #72a499;
+    font-size: 96px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    font-weight: 300;
+    text-align: center;
+}
+#footer .title{
+    font-size: 48px;
+    color: #333;
+    line-height: 1.3;
+    text-align: center;
+    font-family: 'Marcellus';
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 50px;
+}
+.woocommerce-products-header h1{
+    color: red;
+}
+.woocommerce-result-count{
+    color: #7e7e7e;
+}
+.banner .img-banner img{
+    width: 100%;
+    height: 550px;
+}
+.banner {
+    position: relative;
+}
+
+.breadcrumbs {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+p#breadcrumbs {
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 22px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+p#breadcrumbs span a{
+    color: #832e2e;
+}
+h1.title_banner {
+    position: absolute;
+    top: 32%;
+    left: 20%;
+    font-size: 80px;
+    color: #a72727;
+    font-family: 'Balsamiq Sans', cursive;
+    letter-spacing: 13px;
+}
+.category-box{margin-bottom:30px}
+.category-box h3{text-transform:uppercase;font-size:14px;background:#2196f3;color:#fff;text-align:center;font-weight:400;padding:15px;margin-bottom:0}
+.category-box .content-cat{border:1px solid #ededed;padding:10px}
+.category-box .content-cat ul li{margin-bottom:5px;padding-bottom:5px;border-bottom:1px dashed #ededed}
+.category-box .content-cat ul li .fa{color:#2196f3}
+.category-box .content-cat ul li a{color:#333;font-size:14px;display:inline-block;transition:all .3s}
+.category-box .content-cat ul li a:hover{transition:all .3s;padding-left:5px}
+
+.summary.entry-summary {
+    color: #aaa;
+}
+.woocommerce-product-gallery{
+    opacity: 1 !important;
+}
+h1.product_title.entry-title{
+    color: #a72727;
+}
+.summary.entry-summary .price ins {
+    color: red;
+    text-decoration: none;
+    font-size: 120%;
+}
+.summary.entry-summary .price del {
+    color: #333;
+}
+div#tab-description{
+    color: #333;
+}
+section.related.products{
+    padding-top: 40px;
+}
+section.related.products h2{
+    color: #a72727;
+}
+form.cart{
+    padding-top: 10px;
+}
+.product_meta {
+    padding-top: 20px;
+}
+div#comments {
+    color: #333;
+}
+
+div#review_form_wrapper {
+    color: #333;
+}
+
+img.zoomImg {
+    cursor: pointer;
+}
+ol.flex-control-nav.flex-control-thumbs{
+    color: red;
+}
+ol.flex-control-nav.flex-control-thumbs li{
+    float: left;
+    padding-right: 35px;
+}
+ol.flex-control-nav.flex-control-thumbs li:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,80 @@
+2022-01-20T01:43:29+00:00 CRITICAL syntax error, unexpected '$date_from' (T_VARIABLE), expecting ')' in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 101
+
+2022-01-20T01:56:24+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T01:56:48+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T01:57:21+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T01:58:38+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T01:58:52+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T02:00:27+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:100
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 100
+
+2022-01-20T02:01:32+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:100
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 100
+
+2022-01-20T02:04:41+00:00 CRITICAL syntax error, unexpected '?>' in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 100
+
+2022-01-20T02:06:42+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T02:07:06+00:00 CRITICAL Uncaught Error: Call to undefined function ѕtrtotime() in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php:99
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 99
+
+2022-01-20T03:16:35+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 133
+
+2022-01-20T03:18:59+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in D:\xampp\htdocs\wordpress\wp-content\themes\shoppractice\index.php on line 133
+
